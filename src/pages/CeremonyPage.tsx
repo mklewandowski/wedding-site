@@ -8,7 +8,7 @@ export default function CeremonyPage() {
       </Typography>
 
       <Typography variant="body1" paragraph>
-        Details about the ceremony — venue, time, dress code, and anything guests
+        Details about the ceremony — venue, time, directions, and anything guests
         should know before the big moment.
       </Typography>
 
@@ -28,7 +28,7 @@ export default function CeremonyPage() {
         Newport State Park Beach<br/>
         407-381 Newport Park Rd<br/>
         Ellison Bay, WI 54210<br/>
-        The ceremony will take on a beach in front of parking lot 3<br/>
+        The ceremony will be held on a beach in front of parking lot 3.<br/>
       </Typography>
     </Box>
   )

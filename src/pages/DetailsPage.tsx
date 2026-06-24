@@ -8,7 +8,7 @@ export default function DetailsPage() {
       </Typography>
 
       <Typography variant="body1" paragraph>
-        Everything you need to know for the weekend — dress code, travel, lodging,
+        Everything you need to know for the weekend — attire, travel, lodging, food,
         and other practical info for guests.
       </Typography>
 
@@ -27,7 +27,8 @@ export default function DetailsPage() {
         Attire
       </Typography>
       <Typography variant="body1" paragraph>
-        Wear whatever you want! That said, the ceremony will be held on a sandy beach (so heels might not be great - or at least bring a change of shoes). 
+        Wear whatever you want! That said, the ceremony will be held on a sandy beach so be ready to slip out of heels and 
+        go barefoot or maybe even bring a change of shoes. 
         The party will take place outside (unless we get severe weather). 
         It might be a little chilly as the sun goes down so a sweater or jacket is recommended.
       </Typography>
@@ -38,8 +39,8 @@ export default function DetailsPage() {
         Travel & Lodging
       </Typography>
       <Typography variant="body1" paragraph>
-        Door County, Wisconsin (the peninsula in the upper right corner of the state), gets busy during the autumn so please book lodging in advance. 
-        Sturgeon Bay is good option for lodging. Green Bay is a little further (90 minute drive to the wedding), but will have even more options.
+        Door County, Wisconsin (the peninsula in the upper right corner of the state) gets busy during the autumn so please book lodging in advance. 
+        Sturgeon Bay is a larger town that is close by with a decent amount of lodging options. Green Bay is a little further (90 minute drive to the wedding), but will have even more options.
       </Typography>
 
       <Divider sx={{ my: 4 }} />
@@ -48,7 +49,8 @@ export default function DetailsPage() {
         Gifts & Registry
       </Typography>
       <Typography variant="body1" paragraph>
-        We have all the stuff we need so there is no wedding registry and no gifts are required or expected. Just bring yourself! If you feel the need to give us something, then a card with a personal note would be great!
+        We have all the stuff we need so there is no wedding registry and no gifts are required or expected. 
+        Just bring yourself! If you feel the need to give us something, then a card with a personal note would be great!
       </Typography>
 
       <Divider sx={{ my: 4 }} />
@@ -57,7 +59,10 @@ export default function DetailsPage() {
         Food & Dietary Restrictions
       </Typography>
       <Typography variant="body1" paragraph>
-        We will be serving meat and vegetarian paella with optional seafood on the side. We will also have vegan appetizers. 
+        We will be serving meat and vegetarian paella with optional seafood as the main dish. 
+        We will also have gazpacho and salad side dishes. 
+        There will be assorted appetizers including vegetarian and vegan options.
+        Beverages will include kombucha and lemonade. Alcohol will not be served.
       </Typography>
 
       <Divider sx={{ my: 4 }} />
@@ -66,8 +71,8 @@ export default function DetailsPage() {
         Weather
       </Typography>
       <Typography variant="body1" paragraph>
-        The ceremony and party will both be outside. The ceremony site does include a covered building that we can use in case of rain.
-        The dining are at the party is covered, but if the weather is severe we also have an indoor option at the party site.
+        The ceremony and party will both be outside. The ceremony site includes a covered building.
+        The dining area at the party is covered, but if the weather is severe we also have an indoor option at the party site.
       </Typography>
 
     </Box>
