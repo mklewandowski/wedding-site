@@ -20,9 +20,10 @@ import MenuIcon from '@mui/icons-material/Menu'
 
 const navItems = [
   { label: 'Home', path: '/' },
-  { label: 'About', path: '/about' },
+  { label: 'Details', path: '/details' },
   { label: 'Ceremony', path: '/ceremony' },
   { label: 'Party', path: '/party' },
+  { label: 'About Us', path: '/about' },
 ]
 
 export default function Layout() {
