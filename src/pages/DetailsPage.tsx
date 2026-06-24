@@ -43,12 +43,31 @@ export default function DetailsPage() {
       </Typography>
 
       <Divider sx={{ my: 4 }} />
+      
+      <Typography variant="h3" gutterBottom sx={{ fontSize: '1.5rem' }}>
+        Gifts & Registry
+      </Typography>
+      <Typography variant="body1" paragraph>
+        We have all the stuff we need so there is no wedding registry and no gifts are required or expected. Just bring yourself! If you feel the need to give us something, then a card with a personal note would be great!
+      </Typography>
+
+      <Divider sx={{ my: 4 }} />
 
       <Typography variant="h3" gutterBottom sx={{ fontSize: '1.5rem' }}>
-        Food and Dietary Restrictions
+        Food & Dietary Restrictions
       </Typography>
       <Typography variant="body1" paragraph>
         We will be serving meat and vegetarian paella with optional seafood on the side. We will also have vegan appetizers. 
+      </Typography>
+
+      <Divider sx={{ my: 4 }} />
+
+      <Typography variant="h3" gutterBottom sx={{ fontSize: '1.5rem' }}>
+        Weather
+      </Typography>
+      <Typography variant="body1" paragraph>
+        The ceremony and party will both be outside. The ceremony site does include a covered building that we can use in case of rain.
+        The dining are at the party is covered, but if the weather is severe we also have an indoor option at the party site.
       </Typography>
 
     </Box>
