@@ -1,0 +1,37 @@
+import { Box, Grid, Typography } from '@mui/material'
+
+const aboutPhotos = ['1.jpg', '2.jpg', '3.jpg', '4.jpg', '5.jpg', '6.jpg']
+
+export default function AboutPage() {
+  return (
+    <Box>
+      <Typography variant="h2" gutterBottom sx={{ fontSize: { xs: '2rem', md: '2.75rem' } }}>
+        About Us
+      </Typography>
+
+      <Typography variant="body1" paragraph>
+        If you're invited to our wedding, then you already know us. 
+        Bethany likes to make compost, hold her chickens, and sit in a cozy corner reading a book. 
+        Matt like to forage fruit, do handstands, and study videogame history.      
+        We met over 30 years ago on a cross country race course and despite the ups and downs of a 2,200 mile long distance relationship, a pandemic, and being relatively tired middle aged adults, we made it to the finish line!
+        </Typography>
+
+      <Grid container spacing={2} sx={{ mt: 2 }}>
+        {aboutPhotos.map((filename) => (
+          <Grid key={filename} size={{ xs: 12, sm: 6 }}>
+            <Box
+              component="img"
+              src={`/images/about/${filename}`}
+              alt="Matt and Bethany"
+              sx={{
+                width: '100%',
+                borderRadius: 2,
+                display: 'block',
+              }}
+            />
+          </Grid>
+        ))}
+      </Grid>
+    </Box>
+  )
+}
