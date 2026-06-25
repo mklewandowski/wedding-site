@@ -1,4 +1,8 @@
-import { Box, Divider, Typography } from '@mui/material'
+import { Box, Divider, Grid, Typography } from '@mui/material'
+
+
+const aboutPhotos = ['1p.jpg', '2p.jpg', '3p.jpg', '4p.jpg']
+
 
 export default function PartyPage() {
   return (
@@ -26,6 +30,24 @@ export default function PartyPage() {
       <Typography variant="body1" paragraph>
         <strong>Location:</strong> 2729 Pioneer Road, Sister Bay, WI 54234
       </Typography>
+
+      <Grid container spacing={2} sx={{ mt: 2 }}>
+        {aboutPhotos.map((filename) => (
+          <Grid key={filename} size={{ xs: 12, sm: 6 }}>
+            <Box
+              component="img"
+              src={`/images/party/${filename}`}
+              alt="Party Site"
+              sx={{
+                width: '100%',
+                borderRadius: 2,
+                display: 'block',
+              }}
+            />
+          </Grid>
+        ))}
+      </Grid>
+
     </Box>
   )
 }
