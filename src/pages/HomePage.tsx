@@ -37,10 +37,12 @@ export default function HomePage() {
         Saturday, October 3rd, 2026 @ 2:00 PM
       </Typography>
       <Typography variant="body1" color="text.secondary" sx={{ mb: 1 }}>
-        Service: Newport State Park in Ellison Bay, Wisconsin
+        Service: Newport State Park Beach, <a href="https://www.google.com/maps/search/?api=1&query=Newport+State+Park+Beach+Ellison+Bay+WI+54210" target="_blank">407-381 Newport Park Rd, Ellison Bay, WI 54210</a>
       </Typography>
       <Typography variant="body1" color="text.secondary" sx={{ mb: 5 }}>
-        Party: Sister Bay, Wisconsin
+        Party: <a href="https://www.google.com/maps/search/?api=1&query=2729+Pioneer+Road+Sister+Bay+WI+54234" target="_blank">
+          2729 Pioneer Road, Sister Bay, WI 54234
+        </a>
       </Typography>
 
       <Box sx={{ display: 'flex', gap: 2, justifyContent: 'center', flexWrap: 'wrap' }}>
