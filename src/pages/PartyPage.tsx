@@ -11,7 +11,7 @@ export default function PartyPage() {
         Party
       </Typography>
 
-      <Typography variant="body1" paragraph>
+      <Typography variant="body1">
         Everything about the celebration after the ceremony.
       </Typography>
 
@@ -20,13 +20,13 @@ export default function PartyPage() {
       <Typography variant="h3" gutterBottom sx={{ fontSize: '1.5rem' }}>
         When & Where
       </Typography>
-      <Typography variant="body1" paragraph>
+      <Typography variant="body1">
         <strong>Date:</strong> Saturday, October 3rd, 2026
       </Typography>
-      <Typography variant="body1" paragraph>
+      <Typography variant="body1">
         <strong>Time:</strong> after ceremony (about 3:30 PM)
       </Typography>
-      <Typography variant="body1" paragraph>
+      <Typography variant="body1">
         <strong>Location:</strong> <a href="https://www.google.com/maps/search/?api=1&query=2729+Pioneer+Road+Sister+Bay+WI+54234" target="_blank">
           2729 Pioneer Road, Sister Bay, WI 54234
         </a>
@@ -37,13 +37,13 @@ export default function PartyPage() {
       <Typography variant="h3" gutterBottom sx={{ fontSize: '1.5rem' }}>
         More...
       </Typography>
-      <Typography variant="body1" paragraph>
+      <Typography variant="body1">
         When the ceremony ends, we will all meet back at the party site (it's about a 15 minute drive). 
       </Typography>
-      <Typography variant="body1" paragraph sx={{ my: 2 }}>
+      <Typography variant="body1" sx={{ my: 2 }}>
         Food will be served at the party. We will have appetizers, a main course (meat and vegetarian paella) with sides, and cake for dessert.
       </Typography>
-      <Typography variant="body1" paragraph sx={{ my: 2 }}>
+      <Typography variant="body1" sx={{ my: 2 }}>
         We'll gather, eat, and then dance and hang out for as long as we want!
       </Typography>
 

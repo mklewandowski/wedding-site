@@ -9,7 +9,7 @@ export default function AboutPage() {
         About Us
       </Typography>
 
-      <Typography variant="body1" paragraph>
+      <Typography variant="body1">
         If you're invited to our wedding, then you already know us. 
         Bethany likes to make compost, hold her chickens, and sit in a cozy corner reading a book. 
         Matt likes to forage fruit, do handstands, and study videogame history.      

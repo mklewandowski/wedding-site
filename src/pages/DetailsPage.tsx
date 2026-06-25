@@ -7,7 +7,7 @@ export default function DetailsPage() {
         Details
       </Typography>
 
-      <Typography variant="body1" paragraph>
+      <Typography variant="body1">
         Everything you need to know for the weekend — attire, travel, lodging, food,
         and other practical info for guests.
       </Typography>
@@ -17,7 +17,7 @@ export default function DetailsPage() {
       <Typography variant="h3" gutterBottom sx={{ fontSize: '1.5rem' }}>
         Super Basic Overview
       </Typography>
-      <Typography variant="body1" paragraph>
+      <Typography variant="body1">
         The ceremony will be held on a beach at Newport State Park in Ellison Bay, Wisconsin at 2:00 PM on Saturday, October 3rd, 2026.
         Following the ceremony there will be a catered party in Sister Bay, Wisconsin.</Typography>
 
@@ -26,7 +26,7 @@ export default function DetailsPage() {
       <Typography variant="h3" gutterBottom sx={{ fontSize: '1.5rem' }}>
         Attire
       </Typography>
-      <Typography variant="body1" paragraph>
+      <Typography variant="body1">
         Wear whatever you want! That said, the ceremony will be held on a sandy beach so be ready to slip out of heels and 
         go barefoot or maybe even bring a change of shoes. 
         The party will take place outside (unless we get severe weather). 
@@ -38,7 +38,7 @@ export default function DetailsPage() {
       <Typography variant="h3" gutterBottom sx={{ fontSize: '1.5rem' }}>
         Travel & Lodging
       </Typography>
-      <Typography variant="body1" paragraph>
+      <Typography variant="body1">
         Door County, Wisconsin (the peninsula in the upper right corner of the state) gets busy in the fall so please book lodging in advance. 
         Sturgeon Bay is a larger town that is close by with a decent amount of lodging options. Green Bay is a little further (90 minute drive to the wedding), but will have even more options.
       </Typography>
@@ -48,7 +48,7 @@ export default function DetailsPage() {
       <Typography variant="h3" gutterBottom sx={{ fontSize: '1.5rem' }}>
         Gifts & Registry
       </Typography>
-      <Typography variant="body1" paragraph>
+      <Typography variant="body1">
         We have all the stuff we need so there is no wedding registry and no gifts are required or expected. 
         Just bring yourself! If you feel the need to give us something, then a card with a personal note would be great!
       </Typography>
@@ -58,7 +58,7 @@ export default function DetailsPage() {
       <Typography variant="h3" gutterBottom sx={{ fontSize: '1.5rem' }}>
         Food & Dietary Restrictions
       </Typography>
-      <Typography variant="body1" paragraph>
+      <Typography variant="body1">
         We will be serving meat and vegetarian paella with optional seafood as the main dish. 
         We will also have gazpacho and salad side dishes. 
         There will be assorted appetizers including vegetarian and vegan options.
@@ -70,7 +70,7 @@ export default function DetailsPage() {
       <Typography variant="h3" gutterBottom sx={{ fontSize: '1.5rem' }}>
         Weather
       </Typography>
-      <Typography variant="body1" paragraph>
+      <Typography variant="body1">
         The ceremony and party will both be outside. The ceremony site includes a covered building.
         The dining area at the party is covered, but if the weather is severe we also have an indoor option at the party site.
       </Typography>
