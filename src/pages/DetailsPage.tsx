@@ -39,7 +39,7 @@ export default function DetailsPage() {
         Travel & Lodging
       </Typography>
       <Typography variant="body1" paragraph>
-        Door County, Wisconsin (the peninsula in the upper right corner of the state) gets busy during the autumn so please book lodging in advance. 
+        Door County, Wisconsin (the peninsula in the upper right corner of the state) gets busy in the fall so please book lodging in advance. 
         Sturgeon Bay is a larger town that is close by with a decent amount of lodging options. Green Bay is a little further (90 minute drive to the wedding), but will have even more options.
       </Typography>
 

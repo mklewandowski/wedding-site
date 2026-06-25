@@ -12,8 +12,7 @@ export default function PartyPage() {
       </Typography>
 
       <Typography variant="body1" paragraph>
-        Everything about the celebration after the ceremony — dinner, dancing,
-        and how the evening will unfold.
+        Everything about the celebration after the ceremony.
       </Typography>
 
       <Divider sx={{ my: 4 }} />
@@ -25,11 +24,28 @@ export default function PartyPage() {
         <strong>Date:</strong> Saturday, October 3rd, 2026
       </Typography>
       <Typography variant="body1" paragraph>
-        <strong>Time:</strong> after ceremony (about 3:00 PM)
+        <strong>Time:</strong> after ceremony (about 3:30 PM)
       </Typography>
       <Typography variant="body1" paragraph>
         <strong>Location:</strong> 2729 Pioneer Road, Sister Bay, WI 54234
       </Typography>
+
+      <Divider sx={{ my: 4 }} />
+
+      <Typography variant="h3" gutterBottom sx={{ fontSize: '1.5rem' }}>
+        More...
+      </Typography>
+      <Typography variant="body1" paragraph>
+        When the ceremony ends, we will all meet back at the party site (it's about a 15 minute drive). 
+      </Typography>
+      <Typography variant="body1" paragraph sx={{ my: 4 }}>
+        Food will be served at the party. We will have appetizers, a main course (meat and vegetarian paella) with sides, and cake for dessert.
+      </Typography>
+      <Typography variant="body1" paragraph sx={{ my: 4 }}>
+        We'll gather, eat, and then dance and hang out for as long as we want!
+      </Typography>
+
+      <Divider sx={{ my: 4 }} />
 
       <Grid container spacing={2} sx={{ mt: 2 }}>
         {aboutPhotos.map((filename) => (

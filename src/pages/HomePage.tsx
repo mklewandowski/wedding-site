@@ -44,11 +44,14 @@ export default function HomePage() {
       </Typography>
 
       <Box sx={{ display: 'flex', gap: 2, justifyContent: 'center', flexWrap: 'wrap' }}>
-        <Button component={RouterLink} to="/ceremony" variant="contained" size="large">
-          Ceremony Details
+        <Button component={RouterLink} to="/details" variant="contained" size="large">
+          Details
         </Button>
-        <Button component={RouterLink} to="/party" variant="outlined" size="large">
-          Party Details
+        <Button component={RouterLink} to="/ceremony" variant="contained" size="large">
+          Ceremony
+        </Button>
+        <Button component={RouterLink} to="/party" variant="contained" size="large">
+          Party
         </Button>
       </Box>
     </Box>
