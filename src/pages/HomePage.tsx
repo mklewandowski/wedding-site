@@ -55,6 +55,12 @@ export default function HomePage() {
         <Button component={RouterLink} to="/party" variant="contained" size="large">
           Party
         </Button>
+        <Button component={RouterLink} to="/doorcounty" variant="contained" size="large">
+          Door County
+        </Button>
+        <Button component={RouterLink} to="/about" variant="contained" size="large">
+          About Us
+        </Button>
       </Box>
     </Box>
   )
