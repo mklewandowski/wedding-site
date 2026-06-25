@@ -23,6 +23,7 @@ const navItems = [
   { label: 'Details', path: '/details' },
   { label: 'Ceremony', path: '/ceremony' },
   { label: 'Party', path: '/party' },
+  { label: 'Door County', path: '/doorcounty' },
   { label: 'About Us', path: '/about' },
 ]
 
