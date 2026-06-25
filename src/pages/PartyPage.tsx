@@ -54,7 +54,7 @@ export default function PartyPage() {
           <Grid key={filename} size={{ xs: 12, sm: 6 }}>
             <Box
               component="img"
-              src={`/images/party/${filename}`}
+              src={`${import.meta.env.BASE_URL}images/party/${filename}`}
               alt="Party Site"
               sx={{
                 width: '100%',

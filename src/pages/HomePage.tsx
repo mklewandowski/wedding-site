@@ -21,7 +21,7 @@ export default function HomePage() {
 
       <Box
         component="img"
-        src="/images/us.jpg"
+        src={`${import.meta.env.BASE_URL}images/us.jpg`}
         alt="Matt and Bethany walking on the beach"
         sx={{
           width: '100%',

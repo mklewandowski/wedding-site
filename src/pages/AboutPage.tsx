@@ -23,7 +23,7 @@ export default function AboutPage() {
           <Grid key={filename} size={{ xs: 12, sm: 6 }}>
             <Box
               component="img"
-              src={`/images/about/${filename}`}
+              src={`${import.meta.env.BASE_URL}images/about/${filename}`}
               alt="Matt and Bethany"
               sx={{
                 width: '100%',

@@ -53,7 +53,7 @@ export default function CeremonyPage() {
       </Typography>
       <Box
         component="img"
-        src={`/images/ceremony/1.jpg`}
+        src={`${import.meta.env.BASE_URL}images/ceremony/1.jpg`}
         alt="Ceremony Site"
         sx={{
           width: '100%',
@@ -67,7 +67,7 @@ export default function CeremonyPage() {
       </Typography>
       <Box
         component="img"
-        src={`/images/ceremony/2.jpg`}
+        src={`${import.meta.env.BASE_URL}images/ceremony/2.jpg`}
         alt="Ceremony Site"
         sx={{
           width: '100%',
@@ -81,7 +81,7 @@ export default function CeremonyPage() {
       </Typography>
       <Box
         component="img"
-        src={`/images/ceremony/3.jpg`}
+        src={`${import.meta.env.BASE_URL}images/ceremony/3.jpg`}
         alt="Ceremony Site"
         sx={{
           width: '100%',
@@ -91,7 +91,7 @@ export default function CeremonyPage() {
         />
       <Box
         component="img"
-        src={`/images/ceremony/4.jpg`}
+        src={`${import.meta.env.BASE_URL}images/ceremony/4.jpg`}
         alt="Ceremony Site"
         sx={{
           width: '100%',
@@ -106,7 +106,7 @@ export default function CeremonyPage() {
       </Typography>
       <Box
         component="img"
-        src={`/images/ceremony/6.jpg`}
+        src={`${import.meta.env.BASE_URL}images/ceremony/6.jpg`}
         alt="Ceremony Site"
         sx={{
           width: '100%',
@@ -120,7 +120,7 @@ export default function CeremonyPage() {
       </Typography>
       <Box
         component="img"
-        src={`/images/ceremony/7.jpg`}
+        src={`${import.meta.env.BASE_URL}images/ceremony/7.jpg`}
         alt="Ceremony Site"
         sx={{
           width: '100%',
