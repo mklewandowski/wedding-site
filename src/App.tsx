@@ -1,4 +1,4 @@
-import { BrowserRouter, Route, Routes } from 'react-router-dom'
+import { HashRouter, Route, Routes } from 'react-router-dom'
 import Layout from './components/Layout'
 import AboutPage from './pages/AboutPage'
 import CeremonyPage from './pages/CeremonyPage'
@@ -9,7 +9,7 @@ import PartyPage from './pages/PartyPage'
 
 export default function App() {
   return (
-    <BrowserRouter basename={import.meta.env.BASE_URL}>
+    <HashRouter>
       <Routes>
         <Route element={<Layout />}>
           <Route index element={<HomePage />} />
@@ -20,6 +20,6 @@ export default function App() {
           <Route path="doorcounty" element={<DoorCountyPage />} />
         </Route>
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   )
 }
