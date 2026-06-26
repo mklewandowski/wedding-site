@@ -21,6 +21,7 @@ export default function DoorCountyPage() {
         <li>Go hiking in <a href = "https://dnr.wisconsin.gov/topic/parks/peninsula" target="_blank">Peninsula State Park</a></li>
         <li>Grab dinner at <a href = "https://aljohnsons.com/" target="_blank">Al Johnson's restaurant</a>, famous for its rooftop goats</li>
         <li>Have coffee and treats at the <a href="https://brownbutterbakeshop.com/" target="_blank">Brown Butter Bakery</a>, makers of our delicious wedding cake</li>
+        <li>And have another coffee at <a href="https://www.roostandbanter.com/" target="_blank">Roost and Banter</a>, a local favorite</li>
         <li>Embrace your inner Wisconsinite and go to a <a href="https://www.doorcounty.com/experience/fish-boils/" target="_blank">fish boil</a></li>
         <li>Drive down to Green Bay and visit Titletown and historic <a href = "https://www.packers.com/lambeau-field/" target="_blank">Lambeau Field</a></li>
         </ul>
