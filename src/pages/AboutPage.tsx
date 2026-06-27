@@ -13,7 +13,7 @@ export default function AboutPage() {
         If you're invited to our wedding, then you already know us.
         Bethany likes to make compost, hold her chickens, and sit in a cozy corner reading a book.
         Matt likes to forage fruit, do handstands, and study videogame history.
-        We met over 30 years ago at a Cross Country meet, and after navigating the adventures of a 2,200 mile long distance relationship,
+        We met over 30 years ago at a Cross Country meet, and after navigating the adventures of a 2,000 mile long distance relationship,
         a pandemic, and being relatively tired middle-aged adults, we made it to the finish line! We look forward to many years together
         sipping coffee, tending to our garden and animals, spending time in nature, and rewatching every episode of Columbo.
         </Typography>

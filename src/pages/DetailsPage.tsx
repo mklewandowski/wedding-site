@@ -41,6 +41,7 @@ export default function DetailsPage() {
         Door County, Wisconsin (the peninsula in the upper right corner of the state) gets busy in the fall so please book lodging in advance.
         Anything on the peninsula north of and including Sturgeon Bay is a great option (Bailey's Harbor, Ellison Bay, Fish Creek, Ephraim, Egg Harbor, Jacksonville, etc.).
         Green Bay and the surrounding area is a little further south but will have even more options if you don't mind the drive (~90 minute drive to the wedding).
+        For those coming from out of state, the closest airport is in Green Bay, but you'll find the most options flying into Milwaukee (it's about a 3 hour drive from Milwaukee).
       </Typography>
 
       <Divider sx={{ my: 4 }} />
