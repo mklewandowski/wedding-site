@@ -76,6 +76,18 @@ export default function DetailsPage() {
         The dining area at the party is exposed but covered. If the weather is severe, we also have an indoor dining option at the party site.
       </Typography>
 
+      <Box
+        component="img"
+        src={`${import.meta.env.BASE_URL}images/trio.jpg`}
+        alt="Ceremony Site"
+        sx={{
+          width: '100%',
+          borderRadius: 2,
+          display: 'block',
+          my: 4,
+        }}
+        />
+
     </Box>
   )
 }
