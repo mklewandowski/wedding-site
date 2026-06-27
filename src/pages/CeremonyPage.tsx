@@ -21,7 +21,7 @@ export default function CeremonyPage() {
         <strong>Date:</strong> Saturday, October 3rd, 2026
       </Typography>
       <Typography variant="body1">
-        <strong>Time:</strong> Ceremony starts @ 2:00 PM, <b>please arrive 20 - 30 minutes early</b>.
+        <strong>Time:</strong> Ceremony starts @ 2:00 PM, <b>please arrive 30 minutes early to allow for purchasing entrance sticker, parking, and walking to the site.</b>
       </Typography>
       <Typography variant="body1">
         <strong>Location:</strong> Newport State Park Beach, <a href="https://www.google.com/maps/search/?api=1&query=Newport+State+Park+Beach+Ellison+Bay+WI+54210" target="_blank">407-381 Newport Park Rd, Ellison Bay, WI 54210</a>
@@ -45,6 +45,9 @@ export default function CeremonyPage() {
       <Typography variant="body1" sx={{ my: 2 }}>
         There will be a limited number of chairs as well as blankets for sitting on the beach.
       </Typography>
+      <Typography variant="body1" sx={{ my: 2 }}>
+        The best bathroom option at the park is at the Visitor Center when you enter (before driving to the parking lot). So we recommend stopping here ;)
+      </Typography>
 
       <Divider sx={{ my: 4 }} />
 
@@ -55,13 +58,13 @@ export default function CeremonyPage() {
        <i>(note: schedule details might change as we get closer to the date)</i>
       </Typography>
       <Typography variant="body1" sx={{ my: 1 }}>
-        1:30 PM - 2:00 PM: Guests arrive, gather at shelter
+        1:15 PM - 1:45 PM: Guests arrive, gather at shelter
       </Typography>
       <Typography variant="body1" sx={{ my: 1 }}>
-        2:00 PM: Guests walk to beach and are seated
+        1:45 PM: Guests walk to beach and are seated
       </Typography>
       <Typography variant="body1" sx={{ my: 1 }}>
-        2:15 PM - 2:45 PM: Ceremony
+        2:00 PM - 2:30 PM: Ceremony
       </Typography>
 
       <Divider sx={{ my: 4 }} />

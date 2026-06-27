@@ -41,7 +41,7 @@ export default function DetailsPage() {
         Door County, Wisconsin (the peninsula in the upper right corner of the state) gets busy in the fall so please book lodging in advance.
         Anything on the peninsula north of and including Sturgeon Bay is a great option (Bailey's Harbor, Ellison Bay, Fish Creek, Ephraim, Egg Harbor, Jacksonville, etc.).
         Green Bay and the surrounding area is a little further south but will have even more options if you don't mind the drive (~90 minute drive to the wedding).
-        For those coming from out of state, the closest airport is in Green Bay, but you'll find the most options flying into Milwaukee (it's about a 3 hour drive from Milwaukee).
+        For those coming from out of state, the closest airport is in Green Bay, but you'll find the most options flying into Milwaukee (it's about a 3 hour drive from Milwaukee to the wedding).
       </Typography>
 
       <Divider sx={{ my: 4 }} />
@@ -50,8 +50,8 @@ export default function DetailsPage() {
         Gifts & Registry
       </Typography>
       <Typography variant="body1">
-        We have all the stuff we need so there is no wedding registry and no gifts are required or expected.
-        Just bring yourself! If you feel the need to give us something, then a card with a personal note would be great!
+        We have all we need so there is no wedding registry and no gifts are needed.
+        Just bring yourself!
       </Typography>
 
       <Divider sx={{ my: 4 }} />
@@ -60,7 +60,7 @@ export default function DetailsPage() {
         Food & Dietary Restrictions
       </Typography>
       <Typography variant="body1">
-        We will be serving meat and vegetarian paella with optional seafood as the main dish.
+        We will be serving paella (vegetarian and non-vegetarian with optional seafood) as the main dish.
         We will also have gazpacho and salad side dishes.
         There will be assorted appetizers including vegetarian and vegan options.
         Beverages will include kombucha and lemonade. Alcohol will not be served.

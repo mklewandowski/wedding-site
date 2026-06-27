@@ -16,12 +16,14 @@ export default function DoorCountyPage() {
 
       <Typography variant="body1">
         <ul>
+        <li>See a truly dark sky at <a href = "https://dnr.wisconsin.gov/topic/parks/newport/darksky" target="_blank">Newport State Beach</a>, perfect for stargazers and astronomers!</li>
         <li>Explore <a href = "https://ridgessanctuary.org/" target="_blank">The Ridges</a>, one of the Midwest's most diverse ecosystems.</li>
         <li>Take a ferry to <a href = "https://www.doorcounty.com/discover/washington-island/" target="_blank">Washington Island.</a></li>
         <li>Go hiking in <a href = "https://dnr.wisconsin.gov/topic/parks/peninsula" target="_blank">Peninsula State Park.</a></li>
-        <li>Grab dinner at <a href = "https://aljohnsons.com/" target="_blank">Al Johnson's restaurant</a>, famous for its rooftop goats.</li>
         <li>Have coffee and treats at the <a href="https://brownbutterbakeshop.com/" target="_blank">Brown Butter Bakery</a>, makers of our delicious wedding cake.</li>
-        <li>And have another coffee at <a href="https://www.roostandbanter.com/" target="_blank">Roost and Banter</a>, a local favorite.</li>
+        <li>And have another coffee at <a href="https://www.roostandbanter.com/" target="_blank">Roost + Banter</a>, a local favorite.</li>
+        <li>Stop by <a href="https://www.bluehorsecafe.com/" target="_blank">Blue Horse Cafe</a> for a lunch (and more coffee).</li>
+        <li>Grab dinner at <a href = "https://aljohnsons.com/" target="_blank">Al Johnson's restaurant</a>, famous for its rooftop goats.</li>
         <li>Embrace your inner Wisconsinite and go to a <a href="https://www.doorcounty.com/experience/fish-boils/" target="_blank">fish boil.</a></li>
         <li>Drive down to Green Bay and visit Titletown and historic <a href = "https://www.packers.com/lambeau-field/" target="_blank">Lambeau Field.</a></li>
         </ul>

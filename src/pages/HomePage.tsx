@@ -37,7 +37,7 @@ export default function HomePage() {
         Saturday, October 3rd, 2026 @ 2:00 PM
       </Typography>
       <Typography variant="body1" color="text.secondary" sx={{ mb: 1 }}>
-        Service: <a href="https://www.google.com/maps/search/?api=1&query=Newport+State+Park+Beach+Ellison+Bay+WI+54210" target="_blank">407-381 Newport Park Rd, Ellison Bay, WI 54210</a>
+        Ceremony: <a href="https://www.google.com/maps/search/?api=1&query=Newport+State+Park+Beach+Ellison+Bay+WI+54210" target="_blank">407-381 Newport Park Rd, Ellison Bay, WI 54210</a>
       </Typography>
       <Typography variant="body1" color="text.secondary" sx={{ mb: 5 }}>
         Party: <a href="https://www.google.com/maps/search/?api=1&query=2729+Pioneer+Road+Sister+Bay+WI+54234" target="_blank">

@@ -24,7 +24,7 @@ export default function PartyPage() {
         <strong>Date:</strong> Saturday, October 3rd, 2026
       </Typography>
       <Typography variant="body1">
-        <strong>Time:</strong> immediately following ceremony
+        <strong>Time:</strong> after the ceremony
       </Typography>
       <Typography variant="body1">
         <strong>Location:</strong> <a href="https://www.google.com/maps/search/?api=1&query=2729+Pioneer+Road+Sister+Bay+WI+54234" target="_blank">
@@ -41,7 +41,7 @@ export default function PartyPage() {
         When the ceremony ends, we will all meet back at the party site (it's about a 15 minute drive).
       </Typography>
       <Typography variant="body1" sx={{ my: 2 }}>
-        Food will be served at the party. We will have appetizers, a main course (meat and vegetarian paella) with sides, and cake for dessert.
+        Food will be served at the party. We will have appetizers, a main course (paella with vegetarian and non-vegetarian options) with sides, and cake for dessert.
       </Typography>
       <Typography variant="body1" sx={{ my: 2 }}>
         We'll gather, eat, and then dance and hang out for as long as we want!
@@ -56,10 +56,10 @@ export default function PartyPage() {
        <i>(note: schedule details might change as we get closer to the date)</i>
       </Typography>
       <Typography variant="body1" sx={{ my: 1 }}>
-        3:00 PM - 4:00: Guests Arrive
+        3:00 PM - 5:00: Guests arrive (and party!)
       </Typography>
       <Typography variant="body1" sx={{ my: 1 }}>
-        4:00 PM: Meal is served
+        5:00 PM: Meal is served
       </Typography>
 
       <Divider sx={{ my: 4 }} />
