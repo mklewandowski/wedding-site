@@ -64,6 +64,7 @@ export default function DetailsPage() {
         We will also have gazpacho and salad side dishes.
         There will be assorted appetizers including vegetarian and vegan options.
         Beverages will include kombucha and lemonade. Alcohol will not be served.
+        <i> More details about the menu will be added closer to the wedding date.</i>
       </Typography>
 
       <Divider sx={{ my: 4 }} />

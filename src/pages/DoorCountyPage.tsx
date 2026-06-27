@@ -14,9 +14,8 @@ export default function DoorCountyPage() {
 
       <Divider sx={{ my: 4 }} />
 
-      <Typography variant="body1">
-        <ul>
-        <li>See a truly dark sky at <a href = "https://dnr.wisconsin.gov/topic/parks/newport/darksky" target="_blank">Newport State Beach</a>, perfect for stargazers and astronomers!</li>
+      <ul>
+        <li>See a truly dark sky at <a href = "https://dnr.wisconsin.gov/topic/parks/newport/darksky" target="_blank">Newport State Park</a>, perfect for stargazers and astronomers (and our wedding ceremony site)!</li>
         <li>Explore <a href = "https://ridgessanctuary.org/" target="_blank">The Ridges</a>, one of the Midwest's most diverse ecosystems.</li>
         <li>Take a ferry to <a href = "https://www.doorcounty.com/discover/washington-island/" target="_blank">Washington Island.</a></li>
         <li>Go hiking in <a href = "https://dnr.wisconsin.gov/topic/parks/peninsula" target="_blank">Peninsula State Park.</a></li>
@@ -26,8 +25,7 @@ export default function DoorCountyPage() {
         <li>Grab dinner at <a href = "https://aljohnsons.com/" target="_blank">Al Johnson's restaurant</a>, famous for its rooftop goats.</li>
         <li>Embrace your inner Wisconsinite and go to a <a href="https://www.doorcounty.com/experience/fish-boils/" target="_blank">fish boil.</a></li>
         <li>Drive down to Green Bay and visit Titletown and historic <a href = "https://www.packers.com/lambeau-field/" target="_blank">Lambeau Field.</a></li>
-        </ul>
-      </Typography>
+      </ul>
 
       <Box
         component="img"

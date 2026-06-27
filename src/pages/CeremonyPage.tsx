@@ -21,7 +21,7 @@ export default function CeremonyPage() {
         <strong>Date:</strong> Saturday, October 3rd, 2026
       </Typography>
       <Typography variant="body1">
-        <strong>Time:</strong> Ceremony starts @ 2:00 PM, <b>please arrive 30 minutes early to allow for purchasing entrance sticker, parking, and walking to the site.</b>
+        <strong>Time:</strong> Ceremony starts @ 2:00 PM, <b><i>please arrive 30 minutes early to allow for purchasing entrance sticker, parking, and walking to the site.</i></b>
       </Typography>
       <Typography variant="body1">
         <strong>Location:</strong> Newport State Park Beach, <a href="https://www.google.com/maps/search/?api=1&query=Newport+State+Park+Beach+Ellison+Bay+WI+54210" target="_blank">407-381 Newport Park Rd, Ellison Bay, WI 54210</a>
